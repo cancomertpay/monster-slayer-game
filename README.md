@@ -14,7 +14,7 @@ The Monster Slayer Game allows players to battle a monster with options to attac
 - **Watchers** 👀: Monitors changes in data properties using `watch`.
 
 ## 🌍 Live Link
-Check out the live app [here](https://monster-slayer-game-by-vuejs.vercel.app/)
+Check out the live app [here](https://monsterslayergame.vercel.app)
 
 ## 📧 Contact
 Can Cömertpay - @cancomertpay - cancomertpay@gmail.com
