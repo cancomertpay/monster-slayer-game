@@ -1,4 +1,4 @@
-# 👾 Monster Slayer Game By Vue 3
+# 👾 Monster Slayer Game
 
 This project is a simple single-page game application designed to learn the basics of Vue.js. The game is implemented using HTML, CSS, and JavaScript, and leverages Vue 3 to demonstrate core functionalities such as `data`, `watch`, `computed`, and `methods`.
 
